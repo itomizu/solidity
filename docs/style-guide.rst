@@ -781,7 +781,7 @@ No::
         uint private x;
 
         constructor(uint param1, uint param2, uint param3, uint param4, uint param5)
-        public B(param1)
+        B(param1)
         C(param2, param3)
         D(param4) {
             x = param5;
@@ -793,7 +793,7 @@ No::
         uint private x;
 
         constructor(uint param1, uint param2, uint param3, uint param4, uint param5)
-            public B(param1)
+            B(param1)
             C(param2, param3)
             D(param4) {
                 x = param5;
